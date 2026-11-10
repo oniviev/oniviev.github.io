@@ -16,6 +16,7 @@ body { margin: 0; color: var(--ink); background: var(--paper); font: 1rem/1.65 s
 nav, .hero-links { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem 1.25rem; }
 nav a { font-size: .92rem; text-decoration: none; }
 nav a:hover, nav a[aria-current="page"] { text-decoration: underline; }
+nav .language { border: 1px solid var(--line); border-radius: .22rem; padding: .08rem .45rem; font-weight: 700; }
 a { color: var(--accent); text-underline-offset: .18em; }
 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
 .skip { position: absolute; left: 1rem; top: -5rem; background: var(--paper); padding: .4rem .7rem; }
