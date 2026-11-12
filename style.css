@@ -22,7 +22,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
 .skip { position: absolute; left: 1rem; top: -5rem; background: var(--paper); padding: .4rem .7rem; }
 .skip:focus { top: .5rem; }
 .hero { padding: clamp(3rem, 8vw, 6.2rem) 0 3.5rem; }
-.hero-profile { display: grid; grid-template-columns: minmax(0, 1fr) clamp(10rem, 23vw, 14rem); gap: 2rem; align-items: center; }
+.hero-profile { display: grid; grid-template-columns: minmax(0, 1fr) clamp(7rem, 14vw, 9rem); gap: 2rem; align-items: center; }
 .portrait { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: .25rem; }
 .hero h1 { font: normal clamp(2.55rem, 7vw, 5.1rem)/1.06 Georgia, serif; letter-spacing: -.04em; margin: .3rem 0 1.25rem; }
 .eyebrow, .meta { color: var(--muted); font-size: .88rem; font-weight: 600; }
@@ -48,7 +48,7 @@ p { margin: 0 0 .75rem; }
 .footer p { margin: 0; }
 @media (max-width: 42rem) {
   .hero-profile { grid-template-columns: 1fr; gap: 1.5rem; }
-  .portrait { width: min(12rem, 100%); }
+  .portrait { width: min(7.5rem, 100%); }
   .shell { width: calc(100% - 2rem); }
   .topbar { align-items: flex-start; flex-direction: column; justify-content: center; padding: .8rem 0; gap: .4rem; }
   nav { gap: .35rem .8rem; }
