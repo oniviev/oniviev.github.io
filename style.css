@@ -98,3 +98,5 @@ p { margin: 0 0 .75rem; }
 .talk-year h2{margin-top:2.4rem}.talk-year .pub-list{margin-top:.75rem}
 .section-links{display:block;margin:1rem 0 2.5rem;line-height:2}.cv-download{margin:1.2rem 0 2rem}
 @media(max-width:640px){.topbar{gap:1rem}.site-header nav{gap:.65rem 1rem}.course-list h3,.media-list li>a{font-size:1rem}.series-body{padding:1rem}}
+
+.econometrics-list{padding-left:1.4rem;margin:1rem 0 0}.econometrics-list>li{padding:.75rem 0}.econometrics-list h4{font-size:1.05rem;line-height:1.5;margin:0 0 .35rem}
