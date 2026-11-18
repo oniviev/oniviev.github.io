@@ -50,6 +50,30 @@ p { margin: 0 0 .75rem; }
 .subheading { margin: 1.15rem 0 .45rem; }
 .experience { margin: 0 0 .8rem; padding-left: 1.15rem; }
 .experience li + li { margin-top: .35rem; }
+.geography { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem 1.5rem; margin: .8rem 0 1.7rem; }
+.geography dt { font-weight: 700; margin-bottom: .2rem; }
+.geography dd { margin: 0; }
+.geography dd strong { font-weight: 500; }
+.project-list { list-style: none; padding-left: 0; }
+.project-list h3 { margin-bottom: .25rem; }
+.project-list .meta { font-weight: 400; margin-bottom: .3rem; }
+.project-links { margin: 0; }
+.review-series { border-bottom: 1px solid var(--line); }
+.review-series:first-child { border-top: 1px solid var(--line); margin-top: 1rem; }
+.review-series summary { padding: 1rem .25rem; cursor: pointer; font-weight: 600; }
+.review-series summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.review-series[open] > summary { background: var(--panel); }
+.series-count { display: inline-block; font-size: .8rem; font-weight: 400; color: var(--muted); margin-left: .7rem; }
+.series-body { padding: .8rem .25rem 1.2rem 1.25rem; max-width: 50rem; }
+.issue-list { list-style: none; padding: 0; margin: .8rem 0; }
+.issue-list > li { border-top: 1px solid var(--line); padding: .8rem 0; }
+.issue-list p { margin-bottom: .3rem; }
+.issue-list .meta { font-weight: 500; }
+.issue-versions { display: flex; flex-wrap: wrap; gap: .25rem 1.2rem; }
+.issue-versions a { display: inline-block; padding: .2rem 0; }
+.cv-page { max-width: 52rem; }
+.cv-page > h2 { margin: 1.7rem 0 .85rem; }
+.cv-links { margin-top: 1.5rem; }
 .feature { background: var(--panel); border-left: 2px solid var(--accent); padding: 1.2rem 1.4rem; }
 .city-list { list-style: none; padding: 0; margin: 0; }
 .city-list li + li { margin-top: .6rem; }
@@ -62,4 +86,5 @@ p { margin: 0 0 .75rem; }
   .topbar { align-items: flex-start; flex-direction: column; justify-content: center; padding: .8rem 0; gap: .4rem; }
   nav { gap: .35rem .8rem; }
   .section { grid-template-columns: 1fr; gap: .65rem; padding: 1.4rem 0; }
+  .geography { grid-template-columns: 1fr; }
 }
