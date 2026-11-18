@@ -88,3 +88,13 @@ p { margin: 0 0 .75rem; }
   .section { grid-template-columns: 1fr; gap: .65rem; padding: 1.4rem 0; }
   .geography { grid-template-columns: 1fr; }
 }
+
+/* Course, supervision and media archives */
+.course-list,.thesis-list,.media-list{list-style:none;padding:0;margin:1.2rem 0 2rem}
+.course-list>li,.media-list>li{padding:1rem 0;border-bottom:1px solid var(--line,#d9ddd6)}
+.course-list h3{margin:0 0 .35rem;font-size:1.12rem;line-height:1.5}
+.course-list p,.media-list p{margin:.25rem 0}.course-links{font-size:.94rem}
+.thesis-list li{margin:1rem 0;line-height:1.6}.media-list li>a{font-size:1.08rem;line-height:1.6}
+.talk-year h2{margin-top:2.4rem}.talk-year .pub-list{margin-top:.75rem}
+.section-links{display:block;margin:1rem 0 2.5rem;line-height:2}.cv-download{margin:1.2rem 0 2rem}
+@media(max-width:640px){.topbar{gap:1rem}.site-header nav{gap:.65rem 1rem}.course-list h3,.media-list li>a{font-size:1rem}.series-body{padding:1rem}}

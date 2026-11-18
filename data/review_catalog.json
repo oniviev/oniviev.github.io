@@ -1,0 +1,858 @@
+[
+  {
+    "id": "war-damages",
+    "title_en": "Agricultural War Damages and Losses Review",
+    "title_uk": "Огляди воєнних збитків і втрат сільського господарства",
+    "description_en": "Assessments of war-related agricultural damages, losses and recovery needs.",
+    "description_uk": "Оцінки воєнних збитків, втрат і потреб відновлення сільського господарства.",
+    "issues": [
+      {
+        "title_en": "Agricultural War Damages, Losses, and Needs Review",
+        "title_uk": "Огляд воєнних збитків, втрат і потреб сільського господарства",
+        "date": "2024-02",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/agricultural_war_damages_losses_and_needs_review_eng_february_2024.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2024/02/RDNA3_ukr.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Agricultural War Damages, Losses, and Needs Review, Issue 3",
+        "title_uk": "Огляд воєнних збитків, втрат і потреб сільського господарства, випуск 3",
+        "date": "2023-04-24",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2023/05/RDNA2.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Agricultural War Losses Review, November update",
+        "title_uk": "Огляд непрямих втрат від війни в сільському господарстві, листопадове оновлення",
+        "date": "2022-11-11",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/en/news/research-of-kse-institute-and-the-ministry-of-agrarian-policy-indirect-losses-in-ukrainian-agriculture-due-to-the-war-reach-34-25-billion/",
+            "kind": "page"
+          }
+        }
+      },
+      {
+        "title_en": "Agricultural War Damages Review, November update",
+        "title_uk": "Огляд прямих збитків від війни в сільському господарстві, листопадове оновлення",
+        "date": "2022-11-11",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/en/news/research-of-kse-institute-and-the-ministry-of-agrarian-policy-direct-losses-in-ukrainian-agriculture-due-to-the-war-with-russia-reached-6-6-billion/",
+            "kind": "page"
+          }
+        }
+      },
+      {
+        "title_en": "Agricultural War Losses Review",
+        "title_uk": "Огляд непрямих втрат від війни в сільському господарстві",
+        "date": "2022-06-09",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2022/06/Losses_report_issue1.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2022/06/Losses_report_issue1_ua.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Agricultural War Damages Review",
+        "title_uk": "Огляд прямих збитків від війни в сільському господарстві",
+        "date": "2022-06-08",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2022/06/Damages_report_issue1.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2022/06/Damages_report_issue1_ua.pdf",
+            "kind": "pdf"
+          }
+        }
+      }
+    ],
+    "source": "https://kse.ua/en/kse-institute/overview-of-damages-and-losses-in-the-agro-industrial-complex/"
+  },
+  {
+    "id": "food-security",
+    "title_en": "Food Security and Policy Review",
+    "title_uk": "Огляд продовольчої безпеки та політики",
+    "description_en": "Regular monitoring of food security and wartime agricultural policy in Ukraine. Methodology, backstopping, and quality assurance.",
+    "description_uk": "Регулярний моніторинг продовольчої безпеки та аграрної політики України під час війни. Методологія, експертний супровід і забезпечення якості.",
+    "issues": [
+      {
+        "title_en": "Food Security and Policy Review, Issue 6: July update",
+        "title_uk": "Огляд продовольчої безпеки та політики, випуск 6: липневе оновлення",
+        "date": "2022-09-02",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2022/09/Food_security_and_policy_review_issue_6_eng.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Food Security and Policy Review, Issue 5: Marginal improvement by mid-July",
+        "title_uk": "Огляд продовольчої безпеки та політики, випуск 5: поліпшення до середини липня",
+        "date": "2022-08-12",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2022/08/Food_security_and_policy_review_issue_5_eng_edited.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Food Security and Policy Review, Issue 4: June update",
+        "title_uk": "Огляд продовольчої безпеки та політики, випуск 4: червневе оновлення",
+        "date": "2022-07-26",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2022/08/Food_security_and_policy_review_issue-4_eng.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Food Security and Policy Review, Issue 1",
+        "title_uk": "Огляд продовольчої безпеки та політики, випуск 1",
+        "date": "2022-05-17",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/wp-content/uploads/2022/05/Food-security-and-policy-in-Ukraine_issue-1_merged.pdf",
+            "kind": "pdf"
+          }
+        }
+      }
+    ],
+    "source": null
+  },
+  {
+    "id": "land-governance",
+    "title_en": "Land Governance Review",
+    "title_uk": "Огляд стану земельних відносин в Україні",
+    "description_en": "Monthly reviews of land relations and agricultural land markets. The series has ended. Author.",
+    "description_uk": "Щомісячні огляди земельних відносин і ринку сільськогосподарських земель. Випуск серії завершено. Автор.",
+    "issues": [
+      {
+        "title_en": "Land Governance Review",
+        "title_uk": "Огляд стану земельних відносин в Україні",
+        "date": "2022-01",
+        "number": null,
+        "versions": {
+          "uk": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/oglyad_stanu_zemelnyh_vidnosyn_v_ukrayini_ukr_january_2022.pdf",
+            "kind": "pdf"
+          },
+          "en": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/land_governance_review_ukraine_eng_january_2022.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Land Governance Review",
+        "title_uk": "Огляд стану земельних відносин в Україні",
+        "date": "2021-12",
+        "number": null,
+        "versions": {
+          "uk": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/oglyad_stanu_zemelnyh_vidnosyn_v_ukrayini_ukr_december_2021.pdf",
+            "kind": "pdf"
+          },
+          "en": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/land_governance_review_ukraine_eng_december_2021.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Land Governance Review",
+        "title_uk": "Огляд стану земельних відносин в Україні",
+        "date": "2021-11",
+        "number": null,
+        "versions": {
+          "uk": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/oglyad_stanu_zemelnyh_vidnosyn_v_ukrayini_ukr_november_2021.pdf",
+            "kind": "pdf"
+          },
+          "en": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/land_governance_review_ukraine_eng_november_2021.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Land Governance Review",
+        "title_uk": "Огляд стану земельних відносин в Україні",
+        "date": "2021-10",
+        "number": null,
+        "versions": {
+          "uk": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/oglyad_stanu_zemelnyh_vidnosyn_v_ukrayini_ukr_october_2021.pdf",
+            "kind": "pdf"
+          },
+          "en": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/land_governance_review_ukraine_eng_october_2021.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Land Governance Review",
+        "title_uk": "Огляд стану земельних відносин в Україні",
+        "date": "2021-09",
+        "number": null,
+        "versions": {
+          "uk": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/oglyad_stanu_zemelnyh_vidnosyn_v_ukrayini_ukr_september_2021.pdf",
+            "kind": "pdf"
+          },
+          "en": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/land_governance_review_ukraine_eng_september_2021.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Land Governance Review",
+        "title_uk": "Огляд стану земельних відносин в Україні",
+        "date": "2021-08",
+        "number": null,
+        "versions": {
+          "uk": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/oglyad_stanu_zemelnyh_vidnosyn_v_ukrayini_ukr_august_2021.pdf",
+            "kind": "pdf"
+          }
+        }
+      }
+    ],
+    "source": "https://institute.kse.ua/uk/policy-reports-uk/?taxonomy-document-topic=agropromyslovyj-kompleks&document-post_type=document&page-document-blocks-filter=7"
+  },
+  {
+    "id": "agricultural-support",
+    "title_en": "Agricultural Support Review",
+    "title_uk": "Огляд державної підтримки в АПК України",
+    "description_en": "Reviews of agricultural support measures and their implementation in Ukraine. Author and editor.",
+    "description_uk": "Огляди заходів державної підтримки агропромислового комплексу України та їх реалізації. Автор і редактор.",
+    "issues": [
+      {
+        "title_en": "Agricultural Support Review",
+        "title_uk": "Огляд державної підтримки в АПК України",
+        "date": "2021-11",
+        "number": null,
+        "versions": {
+          "uk": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/oglyad_derzhavnoyi_pidtrymky_apk_v_ukrayini_ukr_november_2021.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Agricultural Support Review",
+        "title_uk": "Огляд державної підтримки в АПК України",
+        "date": "2021-10",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://institute.kse.ua/wp-content/uploads/2026/02/agricultural_support_review_ukraine_eng_october_2021.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "https://kse.ua/wp-content/uploads/2021/10/State-support-review-20211009.pdf",
+            "kind": "pdf"
+          }
+        }
+      }
+    ],
+    "source": "https://institute.kse.ua/uk/policy-reports-uk/?taxonomy-document-topic=agropromyslovyj-kompleks&document-post_type=document&page-document-blocks-filter=8"
+  },
+  {
+    "id": "land-barometer",
+    "title_en": "Land Reform Barometer",
+    "title_uk": "Барометр земельної реформи",
+    "description_en": "Fortnightly and thematic analytical reviews. Author and editor, 2011–2013.",
+    "description_uk": "Двотижневі й тематичні аналітичні огляди. Автор і редактор у 2011–2013 роках.",
+    "issues": [
+      {
+        "title_en": "Draft law on agricultural land turnover: the term of lease contracts",
+        "title_uk": "Законопроект «Про обіг земель сільськогосподарського призначення»: про термін дії договорів оренди",
+        "date": "2013-06-11",
+        "number": 21,
+        "versions": {
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_21_Land_Lease_Floor.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Draft Law “On Turnover of Agricultural Land”: A Threat of Monopolizing the Market by the State Land Bank",
+        "title_uk": "Законопроект «Про обіг земель сільськогосподарського призначення»: загроза монополізації ринку Державним земельним банком",
+        "date": "2013-05-13",
+        "number": 20,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_20_State_Land_Bank.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_20_Land_Law_Bank.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "International experience of land reform: Russia",
+        "title_uk": "Світовий досвід провадження земельної реформи: Росія",
+        "date": "2013-04-15",
+        "number": 19,
+        "versions": {
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_19_Land_Reform_in_Russia_FF.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Attitudes to the farmland sales moratorium: what to expect after 2016?",
+        "title_uk": "Ставлення до мораторію на продаж землі сільськогосподарського призначення: чого чекати після 2016 року?",
+        "date": "2013-03-28",
+        "number": 18,
+        "versions": {
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_18_.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Lending to agricultural producers",
+        "title_uk": "Кредитування сільськогосподарських виробників",
+        "date": "2013-03-01",
+        "number": 17,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_17_Agricultural_producers_loans.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_17.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "How to avoid corruption in registering land ownership rights",
+        "title_uk": "Як уникнути корупції під час оформлення прав на землю?",
+        "date": "2013-02-20",
+        "number": 16,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_16_How_to_avoid_corruption.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_16.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Land lease payments: amounts and forms",
+        "title_uk": "Розмір та форма орендної плати за земельну ділянку",
+        "date": "2013-02-12",
+        "number": 15,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_15_Lease.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_15____2.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "How to change type of land use within categories of land?",
+        "title_uk": "Зміна виду використання землі у межах однієї категорії цільового призначення",
+        "date": "2013-02-07",
+        "number": 14,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_14__How_to_change_type_of_land_usage.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_14.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Informing landowners about their rights",
+        "title_uk": "Інформування землевласників про їхні права",
+        "date": "2013-01-29",
+        "number": 13,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_13_Informing_landowners_about_their_rights.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_13_____if.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "New rules on land titles certificate",
+        "title_uk": "Нові правила посвідчення прав на землю",
+        "date": "2013-01-22",
+        "number": 12,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_12.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2013_12____.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "How difficult is it to obtain the State Act for Land Ownership?",
+        "title_uk": "Чи важко отримати державний акт на земельну ділянку?",
+        "date": "2012-11-14",
+        "number": 11,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_11_Process_F.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_11__.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "The documents to be held by landowners and landusers?",
+        "title_uk": "Який документ має бути у землевласника або землекористувача?",
+        "date": "2012-11-01",
+        "number": 10,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_10_Documents_1.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_10__.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Barriers to Agricultural Development",
+        "title_uk": "Що заважає розвитку сільського господарства?",
+        "date": "2012-10-29",
+        "number": 9,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_09_Agrobusiness_development_barriers.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_09___.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Legal Assistance to Agricultural Producers: revealed preferences",
+        "title_uk": "Потреба в юридичній допомозі з боку сільськогосподарських виробників",
+        "date": "2012-10-22",
+        "number": 8,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_08_Legal_aid.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_08__.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Landowners’ appeals to public authorities on land-use problems",
+        "title_uk": "Звернення землевласників до влади щодо проблемних питань із землекористування",
+        "date": "2012-09-27",
+        "number": 7,
+        "versions": {
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_07_____2.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Revised Legislation on Land Market in Ukraine",
+        "title_uk": "Зміни законодавства щодо ринку землі в Україні",
+        "date": "2012-09-24",
+        "number": 6,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_06_Land_Market_Law.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_06_______.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Demand and Supply for Agricultural Land",
+        "title_uk": "Попит та пропозиція на сільськогосподарські землі",
+        "date": "2012-09-17",
+        "number": 5,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_05_Demand_and_Supply.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_05___-2.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Land rights and obligations",
+        "title_uk": "Земельні права та обов’язки",
+        "date": "2012-09-12",
+        "number": 4,
+        "versions": {
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_04_____2.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Perceived Farmland Value by Landowners and Agricultural Producers",
+        "title_uk": "Оцінка вартості землі землевласниками та с/г виробниками",
+        "date": "2012-09-12",
+        "number": 3,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_03_Land_price.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_03__.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "How to change the designated use of a land plot in Ukraine?",
+        "title_uk": "Як змінити цільове призначення земельної ділянки в Україні?",
+        "date": "2012-08-21",
+        "number": 2,
+        "versions": {
+          "uk": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_2___.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Attitude of Landowners and Agricultural Producers towards Lifting the Moratorium on Agricultural Land Sales",
+        "title_uk": "Ставлення землевласників  і  сільськогосподарських виробників до зняття мораторію на продаж сільськогосподарських земель",
+        "date": "2012-08-20",
+        "number": 1,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/publications/barometer/LRB_2012_01_Attitude_moratorium_en.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/ua/land_reform_barometer/project_publications/?pid=3505",
+            "kind": "page"
+          }
+        }
+      }
+    ],
+    "source": "http://www.ier.com.ua/en/land_reform_barometer/project_publications"
+  },
+  {
+    "id": "agri-food-policy",
+    "title_en": "Agri-Food Policy Review",
+    "title_uk": "Огляд аграрної політики",
+    "description_en": "Monthly analysis for the German-Ukrainian Agricultural Policy Dialogue. Author and editor, 2012–2013.",
+    "description_uk": "Щомісячна аналітика Німецько-українського агрополітичного діалогу. Автор і редактор у 2012–2013 роках.",
+    "issues": [
+      {
+        "title_en": "Recent amendments of the ‘green’ tariff in Ukraine: new incentives but old barriers",
+        "title_uk": "Останні зміни «зеленого» тарифу в Україні: нові стимули та старі бар’єри",
+        "date": "2012",
+        "number": 12,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/APD_AFPR_2012_12_en.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/APD_AFPR_2012_12_ua.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "State-led localization of agricultural machinery manufacturing: a pro-growth strategy for agriculture?",
+        "title_uk": "Державна локалізація виробництва сільськогосподарської техніки: стратегія зростання?",
+        "date": "2012-12",
+        "number": 11,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/APD_AFPR_2012_11_en.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/APD_AFPR_2012_11_ua.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Food Safety and Quality Standards in Ukraine: A need for a breakthrough",
+        "title_uk": "Стандарти безпечності та якості харчової продукції в Україні: потреба прориву",
+        "date": "2012-10",
+        "number": 10,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/APD_AFPR_2012_10_en.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/APD_AFPR_2012_10_ua.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Tackling the dilemma of agricultural taxation: Moving towards a comprehensive and transparent approach",
+        "title_uk": "Вирішення проблем оподаткування сільського господарства: комплексний і прозорий підхід",
+        "date": "2012-09",
+        "number": 9,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/APD_AFPR_2012_9_en.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/APD_AFPR_2012_9_ua.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Drought in the USA and Black Sea Region: Implications for Ukraine",
+        "title_uk": "Посуха у США та Чорноморському регіоні: наслідки для України",
+        "date": "2012-08",
+        "number": 8,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/APD_AFPR_2012_8_en.pdf",
+            "kind": "pdf"
+          },
+          "uk": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/APD_AFPR_2012_8_ua.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Biofuels policy in Ukraine: The need for critical rethinking",
+        "title_uk": "Політика щодо біопалива в Україні: потреба критичного переосмислення",
+        "date": "2012-08",
+        "number": 7,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/APD_AFPR_2012_7_en.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "The Draft Law ‘On Agriculture’: Back to Central Planning?",
+        "title_uk": "Проєкт закону «Про сільське господарство»: повернення до централізованого планування?",
+        "date": "2012-05",
+        "number": 4,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/APD_AFPR_2012_4_en.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "EU Biofuels Policy: Repercussions on Ukraine",
+        "title_uk": "Політика ЄС щодо біопалива: наслідки для України",
+        "date": "2012-04",
+        "number": 3,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/APD_AFPR_2012_03_en.pdf",
+            "kind": "pdf"
+          }
+        }
+      }
+    ],
+    "source": "https://www.apd-ukraine.de/projektentwicklungen/veroeffentlichungen"
+  },
+  {
+    "id": "grains-oilseeds",
+    "title_en": "Grains & Oilseeds Weekly",
+    "title_uk": "Щотижневий огляд ринків зернових та олійних культур",
+    "description_en": "Weekly analysis of grain and oilseed markets and agricultural derivatives. Published in 2012.",
+    "description_uk": "Щотижневий аналіз ринків зернових та олійних культур і товарних деривативів. Серія виходила у 2012 році.",
+    "issues": [
+      {
+        "title_en": "Grains & Oilseeds Weekly, Issue 3",
+        "title_uk": "Щотижневий огляд ринків зернових та олійних культур, випуск 3",
+        "date": "2012-03-14",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/go_weekly/3/APD_GO_2012_3_en.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Grains & Oilseeds Weekly, Issue 2",
+        "title_uk": "Щотижневий огляд ринків зернових та олійних культур, випуск 2",
+        "date": "2012-03-07",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "http://www.ier.com.ua/files/Regular_products/Agro_review/2012/go_weekly/3/APD_GO_2012_2_en.pdf",
+            "kind": "pdf"
+          }
+        }
+      }
+    ],
+    "source": null
+  },
+  {
+    "id": "land-market",
+    "title_en": "Land Market Reviews",
+    "title_uk": "Огляди ринку землі",
+    "description_en": "Regular analysis of Ukraine’s agricultural land market.",
+    "description_uk": "Регулярний аналіз ринку сільськогосподарських земель України.",
+    "issues": [
+      {
+        "title_en": "Land Market Review Ukraine: Q2 2023",
+        "title_uk": "Огляд ринку землі в Україні: II квартал 2023",
+        "date": "2023-06",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/wp-content/uploads/2023/08/Land-Market-Review-Ukraine_Q2-2023.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Land Market Review Ukraine: Q4 2023",
+        "title_uk": "Огляд ринку землі в Україні: IV квартал 2023",
+        "date": "2023-12",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2024/02/Q4_land_eng.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Land Market Review Ukraine: July 2024",
+        "title_uk": "Огляд ринку землі в Україні: Липень 2024",
+        "date": "2024-07",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2024/09/ENG-lipen-2024-Zemlya-Nezlamnosti-1.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Land Market Review Ukraine: Q3 2024",
+        "title_uk": "Огляд ринку землі в Україні: III квартал 2024",
+        "date": "2024-09",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2024/11/Land-Market-review-Q3-.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Land Market Review Ukraine: December and Q4 2024",
+        "title_uk": "Огляд ринку землі в Україні: Грудень та IV квартал 2024",
+        "date": "2024-12",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2025/06/Land-Market-review-Q4-.pdf",
+            "kind": "pdf"
+          }
+        }
+      },
+      {
+        "title_en": "Land Market Review Ukraine: Final analytical review",
+        "title_uk": "Огляд ринку землі в Україні: Підсумковий аналітичний огляд",
+        "date": "2025",
+        "number": null,
+        "versions": {
+          "en": {
+            "url": "https://kse.ua/kse-media/wp-content/uploads/2025/06/dodatok-2.pdf",
+            "kind": "pdf"
+          }
+        }
+      }
+    ],
+    "source": "/projects/invincible-land/"
+  }
+]
