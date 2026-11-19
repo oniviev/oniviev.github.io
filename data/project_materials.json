@@ -1,0 +1,56 @@
+{
+  "project-19": {
+    "materials": [
+      {
+        "path": "assets/project-materials/ifc-export-contract-registration-2012-uk.pdf",
+        "title_en": "Mandatory registration of agricultural export contracts on the Agrarian Exchange",
+        "title_uk": "Обов’язкова реєстрація зовнішньоекономічних контрактів на експорт сільськогосподарської продукції на Аграрній біржі",
+        "date": "2012-10",
+        "language": "uk",
+        "draft": false
+      },
+      {
+        "path": "assets/project-materials/ifc-grain-quality-certification-2013-uk.pdf",
+        "title_en": "Abolishing mandatory grain and grain-product quality certification",
+        "title_uk": "Скасування обов’язкової сертифікації якості зерна та продуктів його переробки",
+        "date": "2013-12",
+        "language": "uk",
+        "draft": false
+      },
+      {
+        "path": "assets/project-materials/ifc-grain-warehouse-certification-2013-uk.pdf",
+        "title_en": "Reforming certification of grain warehouse storage services",
+        "title_uk": "Перегляд підходів до сертифікації послуг зернових складів",
+        "date": "2013-06",
+        "language": "uk",
+        "draft": false
+      },
+      {
+        "path": "assets/project-materials/ifc-plant-health-regime-2014-en.pdf",
+        "title_en": "Plant Health Regime in Ukraine: How to Make It Less Costly but More Effective",
+        "title_uk": "Фітосанітарний режим в Україні: як зменшити витрати та підвищити ефективність",
+        "date": "2014-05",
+        "language": "en",
+        "draft": true
+      },
+      {
+        "path": "assets/project-materials/ifc-price-control-memo-2014-uk.pdf",
+        "title_en": "Reducing state oversight bodies: abolishing the State Price Control Inspectorate",
+        "title_uk": "Скорочення органів державного нагляду: ліквідація Державної інспекції України з контролю за цінами",
+        "date": "2014-04",
+        "language": "uk",
+        "draft": true
+      }
+    ]
+  },
+  "project-17": {
+    "materials": [
+      {
+        "title_en": "High-Value Supply Chain Development for Generation of Income and Jobs in Yemen",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5167162",
+        "date": "2018-06-16",
+        "kind": "ssrn"
+      }
+    ]
+  }
+}
