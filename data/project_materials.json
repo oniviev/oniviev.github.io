@@ -52,5 +52,13 @@
         "kind": "ssrn"
       }
     ]
+  },
+  "project-uafoodtrade": {
+    "title": "UaFoodTrade",
+    "role_en": "Local lead for the project in Ukraine",
+    "role_uk": "Локальний керівник проєкту в Україні",
+    "start_date": "2017-11-15",
+    "end_date": "2021-06-30",
+    "url": "https://www.iamo.de/en/research/research-projects/details/uafoodtrade/"
   }
 }
