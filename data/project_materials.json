@@ -60,5 +60,11 @@
     "start_date": "2017-11-15",
     "end_date": "2021-06-30",
     "url": "https://www.iamo.de/en/research/research-projects/details/uafoodtrade/"
+  },
+  "project-18": {
+    "catalog": "data/land_capacity_materials.json",
+    "page_en": "en/projects/land-agricultural-policy/",
+    "page_uk": "projects/land-agricultural-policy/",
+    "count": 34
   }
 }
