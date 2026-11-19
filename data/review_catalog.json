@@ -89,6 +89,19 @@
             "kind": "pdf"
           }
         }
+      },
+      {
+        "title_en": "Assessing Investment Needs in Ukraine’s Agricultural Reconstruction and Recovery",
+        "title_uk": "Оцінка інвестиційних потреб для реконструкції та відновлення сільського господарства України",
+        "date": "2022-04-07",
+        "number": null,
+        "publisher": "FAO",
+        "versions": {
+          "en": {
+            "url": "https://openknowledge.fao.org/server/api/core/bitstreams/9ea5151c-357f-441e-a7ae-e6e82490ca0b/content",
+            "kind": "pdf"
+          }
+        }
       }
     ],
     "source": "https://kse.ua/en/kse-institute/overview-of-damages-and-losses-in-the-agro-industrial-complex/"
