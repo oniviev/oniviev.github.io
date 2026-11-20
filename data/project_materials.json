@@ -40,8 +40,43 @@
         "date": "2014-04",
         "language": "uk",
         "draft": true
+      },
+      {
+        "path": "assets/project-materials/ifc-port-tariffs-one-pager.pdf",
+        "title_en": "Port Tariffs in Ukraine: How to Make Them Competitive?",
+        "title_uk": "Портові збори в Україні: як зробити їх конкурентними?",
+        "language": "en",
+        "pages": 1,
+        "draft": false
+      },
+      {
+        "path": "assets/project-materials/ifc-port-tariff-methodology-2016-12-en.pdf",
+        "title_en": "Draft Port Tariff Methodology for Ukraine",
+        "title_uk": "Проєкт методики розрахунку портових зборів в Україні",
+        "date": "2016-12",
+        "language": "en",
+        "pages": 17,
+        "draft": true
       }
-    ]
+    ],
+    "articles": [
+      {
+        "date": "2017-09-05",
+        "title_uk": "Тариф спотикання: що не так з портовими зборами в Україні та як їх зробити конкурентними",
+        "title_en": "Port tariffs: what is wrong with port charges in Ukraine and how to make them competitive",
+        "url": "https://voxukraine.org/tarif-spotikannya-shho-ne-tak-z-portovimi-zborami-v-ukrayini-ta-yak-yih-zrobiti-konkurentnimi",
+        "language": "uk"
+      },
+      {
+        "date": "2017-12-06",
+        "title_uk": "Як зменшення портових зборів може посприяти економічному зростанню в Україні",
+        "title_en": "How reducing port charges can contribute to economic growth in Ukraine",
+        "url": "https://voxukraine.org/yak-zmenshennya-portovih-zboriv-mozhe-pospriyati-ekonomichnomu-zrostannyu-v-ukrayini",
+        "language": "uk"
+      }
+    ],
+    "experience_en": "en/index.html#economic-policy-adviser",
+    "experience_uk": "index.html#economic-policy-adviser"
   },
   "project-17": {
     "materials": [
@@ -117,6 +152,24 @@
         "date": "2011-05",
         "language": "en",
         "pages": 23
+      }
+    ]
+  },
+  "project-30": {
+    "materials": [
+      {
+        "title_en": "AGRICISTRADE Country Report: Ukraine",
+        "date": "2015-03",
+        "pages": 69,
+        "language": "en",
+        "authors": [
+          "Oleg Nivievskyi",
+          "Oleksa Stepanuik",
+          "Veronika Movchan",
+          "Mykola Ryzhenkov",
+          "Yulia Ogarenko"
+        ],
+        "url": "https://www.researchgate.net/publication/307583764_AgriCISTrade_Country_Report_Ukraine"
       }
     ]
   }
