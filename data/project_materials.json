@@ -88,5 +88,17 @@
         "draft": true
       }
     ]
+  },
+  "project-34": {
+    "materials": [
+      {
+        "title_en": "Belarus: Agricultural Productivity and Competitiveness. Impact of State Support and Market Intervention",
+        "url": "https://documents1.worldbank.org/curated/en/631331468206679402/pdf/483350ESW0REVI110FINAL0for0printing.pdf",
+        "date": "2009-09",
+        "report_number": "48335-BY",
+        "language": "en",
+        "pages": 128
+      }
+    ]
   }
 }
