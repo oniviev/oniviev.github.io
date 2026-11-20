@@ -100,5 +100,16 @@
         "pages": 128
       }
     ]
+  },
+  "project-32": {
+    "materials": [
+      {
+        "title_en": "Uganda Water Assistance Strategy",
+        "url": "https://documents1.worldbank.org/curated/en/868541468110673491/pdf/801720WP00P1180Box0379800B00PUBLIC0.pdf",
+        "date": "2011-06",
+        "language": "en",
+        "pages": 151
+      }
+    ]
   }
 }
