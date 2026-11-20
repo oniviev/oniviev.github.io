@@ -66,5 +66,27 @@
     "page_en": "en/projects/land-agricultural-policy/",
     "page_uk": "projects/land-agricultural-policy/",
     "count": 34
+  },
+  "project-26": {
+    "materials": [
+      {
+        "path": "assets/project-materials/agriculture-rural-development-strategy-2015-2020-en.pdf",
+        "title_en": "Single and Comprehensive Strategy and Action Plan for Agriculture and Rural Development in Ukraine for 2015–2020",
+        "title_uk": "Єдина комплексна стратегія та план дій розвитку сільського господарства та сільських територій в Україні на 2015–2020 роки",
+        "date": "2015-10-26",
+        "language": "en",
+        "pages": 213,
+        "draft": true
+      },
+      {
+        "path": "assets/project-materials/agriculture-rural-development-strategy-2015-2020-uk.pdf",
+        "title_en": "Single and Comprehensive Strategy and Action Plan for Agriculture and Rural Development in Ukraine for 2015–2020",
+        "title_uk": "Єдина комплексна стратегія та план дій розвитку сільського господарства та сільських територій в Україні на 2015–2020 роки",
+        "date": "2015-10-26",
+        "language": "uk",
+        "pages": 225,
+        "draft": true
+      }
+    ]
   }
 }
